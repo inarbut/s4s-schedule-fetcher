@@ -5,8 +5,8 @@
 // @description  Automatically syncs your KSE schedule to the team dashboard
 // @author       Your Team
 // @match        https://schedule.kse.ua/*
-// @updateURL    https://raw.githubusercontent.com/inarbut/s4s-schedule-fetcher/main/script.js
-// @downloadURL  https://raw.githubusercontent.com/inarbut/s4s-schedule-fetcher/main/script.js
+// @updateURL    https://raw.githubusercontent.com/inarbut/s4s-schedule-fetcher/refs/heads/main/script.js
+// @downloadURL  https://raw.githubusercontent.com/inarbut/s4s-schedule-fetcher/refs/heads/main/script.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
