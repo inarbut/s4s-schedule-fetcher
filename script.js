@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KSE Schedule Auto-Sync
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Automatically syncs your KSE schedule to the team dashboard
 // @author       Your Team
 // @match        https://schedule.kse.ua/*
@@ -15,7 +15,7 @@
     'use strict';
 
     const SERVER_URL = 'https://narbut.app';
-    const SYNC_INTERVAL = 5 * 60 * 1000;
+    const SYNC_INTERVAL = 19 * 60 * 1000;
 
     function getMonday(date) {
         const d = new Date(date);
